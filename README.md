@@ -17,11 +17,11 @@
 
 或者使用 HTTPS：
 
-`git@github.com:QSC-Homework-Group/CProgrammingLanguage.git`
+`git clone https://github.com/QSC-Homework-Group/CProgrammingLanguage.git`
 
 ## 贡献
 
-加入 QSC-Homework-Group，或者提交 pull requests。
+加入 QSC-Homework-Group，或者提交 Pull request。
 
 ## 协议
 
